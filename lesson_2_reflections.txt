@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+to identify that this directory will be managed with git.
+All files will be tracked with git.
+
+
