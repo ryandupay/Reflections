@@ -1,6 +1,16 @@
 What happens when you initialize a repository? Why do you need to do it?
-
 to identify that this directory will be managed with git.
 All files will be tracked with git.
 
+How can you use the staging area to make sure you have one commit per logical change?
+Only add to staging and select which file in staging to commit in order to make sure logical changes are monitored.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+it is helpful to separate a different design or an option for the repository.
+it is helpful to easily monitor and keep track any changes without affecting the master branch
+
+How do the diagrams help you visualize the branch structure?
+It shows the commits where you can trace from branch to master to initial commit. it also shows where it was branched out.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+in order to see or have visualization of what has been the changes done to the repository in a detailed and clear way.
